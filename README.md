@@ -29,7 +29,7 @@ mes_projets_python/
 
 ---
 
-### 🗣️ Ma démarche
+### Ma démarche
 
 Je ne cherche pas juste à “faire marcher le code”. Je veux :
 - Comprendre **pourquoi** chaque solution fonctionne
@@ -39,7 +39,7 @@ Je ne cherche pas juste à “faire marcher le code”. Je veux :
 
 ---
 
-### 📌 À venir
+### À venir
 
 - Ajout de tests unitaires pour certains exercices
 - Documentation plus détaillée dans chaque fichier
@@ -51,7 +51,3 @@ Je ne cherche pas juste à “faire marcher le code”. Je veux :
 ### 🤝 Contribuer ou discuter
 
 Ce dépôt est personnel, mais si tu veux discuter d’un exercice, proposer une amélioration ou partager ton propre parcours, je suis preneur ! Tu peux ouvrir une issue ou me contacter via GitHub.
-
----
-
-Tu veux que je t’aide à rédiger un `README.md` spécifique pour un exercice en particulier, ou à ajouter une section sur les outils que tu utilises (comme easygui, matplotlib, etc.) ?
